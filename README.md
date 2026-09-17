@@ -95,7 +95,3 @@ plt.ylabel('Number of Visitors')
 plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
-### Output:
-
-
-### Result:
